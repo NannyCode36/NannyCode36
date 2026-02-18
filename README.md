@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Hi Nanny Alves
+# 👩🏻‍💻 Nanny Alves
 
 **`Desenvolvedora FullStack`**
 
