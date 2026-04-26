@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Edilane (Nanny), tenho 36 anos, Analista da Qualidade/Analista de Processos. Atualmente, estou cursando Engenharia de Software na Estácio. 
+Me chamo Edilane (Nanny), Analista da Qualidade/Analista de Processos. Atualmente, estou cursando Engenharia de Software.
 <p align="left">
  <a href="https://github.com/NannyCode36?tab=repositories&sort=stargazers">
         <img 
